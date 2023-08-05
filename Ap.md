@@ -18,7 +18,7 @@ int main()
     }
     return 0;
 }
-```
+
 
 Output:-
 Enter the number of terms in AP series
@@ -27,3 +27,4 @@ Enter the first term:-1
 Enter the common difference:-3
 AP Series is :-
 1 4 7 10 13
+```
