@@ -17,7 +17,7 @@ int main()
     }
  return 0;
 }
-```
+
 
 Output:-
 
@@ -29,3 +29,4 @@ Enter the first term:-1
 Enter the common difference:-3
 GP Series is :-
 1 3 9 27 81
+```
